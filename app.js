@@ -11,7 +11,6 @@ const buyerRoutes = require("./routes/buyerRoutes");
 // Load environment variables
 // dotenv.config();\
 
-
 // Connect to the database
 connectDB();
 
